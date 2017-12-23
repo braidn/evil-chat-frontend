@@ -1,24 +1,9 @@
-# README
+# Evil Chat Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just playing through some online Rails 5.1.x tutorials. 
+Simple, somewhat new-ish methodologies for creating sensible frontends. 
+All without the need of crazy JS libs/frameworks. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The modularity here is great and if anything, 
+I am learning some tricks when it comes to BEM 
+and better CSS management.
